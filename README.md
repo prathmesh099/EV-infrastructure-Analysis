@@ -1,7 +1,7 @@
 # EV-infrastructure-Analysis
 
 
-### Dashboard Link: [Insert Link Here]
+### Dashboard Link: https://app.powerbi.com/groups/me/reports/012f2115-a415-4905-b155-14be8d8f7271/6edaebdf9137acd3d251?experience=power-bi
 
 ### Problem Statement
 
