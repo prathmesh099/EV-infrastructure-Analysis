@@ -56,9 +56,16 @@ Hours," and "City."
 3. Incorporated visual elements like bar charts, cards, and KPIs to highlight critical data points.
 
 
-##### Dashboard Publishing:
+### Dashboard Publishing And Snapshots
 
 1. Published the Power BI dashboard to Power BI Service for broader accessibility and collaboration.
+
+![image](https://github.com/user-attachments/assets/7b716786-d106-45f9-9245-66342ec2cc18)
+
+
+![image](https://github.com/user-attachments/assets/cdbcf014-1424-41fb-8fc5-99705c118c95)
+
+![image](https://github.com/user-attachments/assets/bdffd590-f2e9-44c9-9674-d9b61fec618d)
 
 
 ### Insights 
@@ -77,30 +84,30 @@ Efficiency trends show Z% improvement over the last quarter.
 
 3. Adoption Patterns:
 
-A. Most commonly used vehicle type: [SUV].
+  A. Most commonly used vehicle type: [SUV].
 
-B. [X]% of users are recurring EV owners, highlighting strong customer retention.
+  B. [X]% of users are recurring EV owners, highlighting strong customer retention.
    Geographic Distribution:
 
-C. Regions with the highest EV penetration: [Top Regions].
+  C. Regions with the highest EV penetration: [Top Regions].
    Identified underutilized charging stations in rural areas.
 
 4. Customer Segmentation:
 
-Grouped users by age, vehicle type, and usage frequency to identify target demographics.
-Additional Measures and Visuals
+  Grouped users by age, vehicle type, and usage frequency to identify target demographics.
+  Additional Measures and Visuals
 
 5. Total Energy Consumed:
 
-Created a measure using DAX to sum up the total energy consumed during charging sessions.
-Displayed using a card visual.
+  Created a measure using DAX to sum up the total energy consumed during charging sessions.
+  Displayed using a card visual.
 
 6. Vehicle Age Distribution:
 
-Created calculated columns to group vehicles into age categories (e.g., 0–3 years, 3–5 years, etc.).
-Represented distribution with a bar chart.
+  Created calculated columns to group vehicles into age categories (e.g., 0–3 years, 3–5 years, etc.).
+  Represented distribution with a bar chart.
 
 7. Charging Station Analysis:
 
-Measured station performance by calculating average sessions per station and energy output.
-Highlighted top-performing stations using a leaderboard visual.
+  Measured station performance by calculating average sessions per station and energy output.
+  Highlighted top-performing stations using a leaderboard visual.
